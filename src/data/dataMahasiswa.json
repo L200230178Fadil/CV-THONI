@@ -1,0 +1,101 @@
+{
+  "id": 12,
+  "slug": "ahmad-fadil-fathoni-l200230178",
+
+  "profile": {
+    "full_name": "Ahmad Fadil Fathoni",
+    "nim": "L200230178",
+    "prodi": "Teknik Informatika",
+    "angkatan": "2023",
+    "photo_url": "public/pp.jpg",
+    "headline": "Fullstack Developer | System Analyst | Business Owner (Laundry)",
+    "short_bio": "Mahasiswa Teknik Informatika UMS yang fokus pada pengembangan sistem berbasis web dan automasi alur kerja. Saat ini mengelola bisnis laundry 'Gent Bagus Laundry' dan aktif mengikuti organisasi kampus.",
+    "location": "Surakarta, Jawa Tengah",
+    "portfolio_url": "https://fadilfathoni.my.id",
+    "email": "l200230178@student.ums.ac.id",
+    "phone": "+62 812-1702-5736",
+    "social_media": {
+      "instagram": "https://www.instagram.com/thonyjr__?igsh=ZG5vaXB5cmN6NTA0&utm_source=qr",
+      "tiktok": "https://www.tiktok.com/@filosofisegobandeng?_r=1&_t=ZS-91gZg0kICy8"
+    }
+  },
+
+  "skills": [
+    {
+      "id": 1,
+      "name": "PHP & Laravel",
+      "category": "technical",
+      "level": "Advanced",
+      "is_main": true,
+      "years_of_experience": 2,
+      "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
+    },
+    {
+      "id": 2,
+      "name": "ReactJS",
+      "category": "technical",
+      "level": "beginner",
+      "is_main": true,
+      "years_of_experience": 1,
+      "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+    },
+    {
+      "id": 3,
+      "name": "MySQL",
+      "category": "technical",
+      "level": "intermediate",
+      "is_main": false,
+      "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+    },
+    {
+      "id": 4,
+      "name": "Tailwind CSS",
+      "category": "technical",
+      "level": "",
+      "is_main": false,
+      "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
+    }
+  ],
+
+  "experiences": [
+    {
+      "id": 101,
+      "title": "Owner & System Manager",
+      "organization": "Gent Bagus Laundry",
+      "experience_type": "business",
+      "start_date": "2023-05-01",
+      "end_date": null,
+      "is_current": true,
+      "description": "Mengelola operasional laundry serta mengembangkan sistem informasi untuk manajemen order, penjadwalan, dan laporan keuangan.",
+      "technologies": ["PHP", "MySQL", "Laravel", "Excel", "Automasi Workflow"],
+      "image_url": "https://cdn.example.com/logo/gent-bagus-laundry.png"
+    },
+    {
+      "id": 102,
+      "title": "Anggota / Pengurus Organisasi",
+      "organization": "UKM Informatika UMS",
+      "experience_type": "organization",
+      "start_date": "2023-09-01",
+      "end_date": "2024-12-31",
+      "is_current": false,
+      "description": "Aktif dalam kegiatan pengembangan teknologi, workshop, serta program peningkatan kemampuan pemrograman mahasiswa."
+    },
+    {
+      "id": 103,
+      "title": "Web Developer",
+      "organization": "Freelance Project",
+      "experience_type": "project",
+      "start_date": "2024-01-01",
+      "end_date": null,
+      "is_current": true,
+      "description": "Membangun aplikasi web sederhana untuk UMKM dan kebutuhan akademik menggunakan PHP, MySQL, dan React.",
+      "technologies": ["PHP", "MySQL", "ReactJS", "Tailwind CSS"],
+      "image_url": "../css-brands-solid-full.svg"
+    }
+  ],
+
+  "statistics": {
+    "views_count": 127,
+    "profile_complete_percent": 96
+  }
+}
